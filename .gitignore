@@ -1,0 +1,5 @@
+node_modules/
+.DS_Store
+*.log
+dist/chromium-obfuscated-local-only/
+dist/chromium-obfuscated-local-only-*.zip

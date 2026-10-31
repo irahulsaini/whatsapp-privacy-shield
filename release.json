@@ -1,0 +1,58 @@
+{
+  "version": "1.0.4",
+  "status": "release-candidate",
+  "packages": {
+    "chrome": {
+      "available": true,
+      "version": "1.0.4",
+      "filename": "whatsapp-privacy-shield-chrome-v1.0.4.zip",
+      "sha256": "ac6b5ace377b259672994dc3d06a7f53738f541953b29c688ccdf1fd1c214f71",
+      "files": [
+        "icons/128.png",
+        "icons/16.png",
+        "icons/32.png",
+        "icons/48.png",
+        "manifest.json",
+        "popup.html",
+        "privacy.js"
+      ],
+      "installationType": "unpacked",
+      "verification": "live-check-required"
+    },
+    "edge": {
+      "available": true,
+      "version": "1.0.4",
+      "filename": "whatsapp-privacy-shield-edge-v1.0.4.zip",
+      "sha256": "ac6b5ace377b259672994dc3d06a7f53738f541953b29c688ccdf1fd1c214f71",
+      "files": [
+        "icons/128.png",
+        "icons/16.png",
+        "icons/32.png",
+        "icons/48.png",
+        "manifest.json",
+        "popup.html",
+        "privacy.js"
+      ],
+      "installationType": "unpacked",
+      "verification": "live-check-required"
+    },
+    "firefox": {
+      "available": true,
+      "version": "1.0.4",
+      "filename": "whatsapp-privacy-shield-firefox-v1.0.4.zip",
+      "sha256": "0cb55f9c6a328df8b7b7a9f767ac14f9c59acda921c5aabfb5607e2595add4f6",
+      "files": [
+        "icons/128.png",
+        "icons/16.png",
+        "icons/32.png",
+        "icons/48.png",
+        "manifest.json",
+        "popup.html",
+        "privacy.js"
+      ],
+      "installationType": "temporary",
+      "verification": "live-check-required"
+    }
+  },
+  "checksumFile": "SHA256SUMS-1.0.4.txt"
+}
